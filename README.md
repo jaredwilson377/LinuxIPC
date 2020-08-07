@@ -1,5 +1,5 @@
 Lab 3: IPC Message Passing Using D-bus
-By: Jared Wilson (wil00352) and Matthew Jurek (jurek048)
+By: Jared Wilson and Matthew J
 
 Design of the program:
 This new design was completely different from what we are used to considering

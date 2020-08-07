@@ -1,0 +1,36 @@
+Script started on 2018-12-12 23:04:16-0600
+]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ gcc lab3.exampleClient.c -ldbus-1 -I/usr/includee/dbus-1.0 -o lab3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ cd Downloads[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc lab3.exampleClient.c -ldbus-1 -I/usr/includee/dbus-1.0 -o lab3[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/d[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/db[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbu[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0 [1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0 -[1P[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0 -o[1P lab3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0 -o [1Plab3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0 -o l[1Pab3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0 -o la[1Pb3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0 -o lab[1P3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0 -o lab3[K[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C.c -ldbus-1 -I/usr/include/dbus-1.0 -o lab3 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc.c -ldbus-1 -I/usr/include/dbus-1.0 -o lab33[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[Cl.c -ldbus-1 -I/usr/include/dbus-1.0 -o lab3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[Ci.c -ldbus-1 -I/usr/include/dbus-1.0 -o lab3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[Ce.c -ldbus-1 -I/usr/include/dbus-1.0 -o lab3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[Cn.c -ldbus-1 -I/usr/include/dbus-1.0 -o lab3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[Ct.c -ldbus-1 -I/usr/include/dbus-1.0 -o lab3[A]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ [C[C[C[C[C[C[C[C[C[C
+
+]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ sudo ./lab3
+[sudo] password for wil00352: 
+Please type your message...
+hello
+Please type your message...
+Please type your message...
+sending message: hello
+
+Got reply: 
+olleh
+]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ sudo ./lab3
+Please type your message...
+
+Please type your message...
+Please type your message...
+sending message: 
+
+Got reply: 
+
+]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ sudo ./lab3
+Please type your message...
+I can't wait to see m                     124 3456789
+Please type your message...
+Please type your message...
+sending message: 123456789
+
+Got reply: 
+987654321
+]0;wil00352@wil00352-VirtualBox: ~/Downloads[01;32mwil00352@wil00352-VirtualBox[00m:[01;34m~/Downloads[00m$ exit
+exit
+
+Script done on 2018-12-12 23:06:43-0600

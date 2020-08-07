@@ -1,3 +1,5 @@
+*Old project from computer architecture class*
+
 Lab 3: IPC Message Passing Using D-bus
 By: Jared Wilson and Matthew J
 
